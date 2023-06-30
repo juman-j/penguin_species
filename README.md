@@ -8,11 +8,6 @@ This repository contains code of a school project for subject
 taught at Prague University Of Economics and Business
 in summer semester 2023.
 
-Team Name
----------
-
-Our team is named "Team 1".
-
 Team Members
 ------------
 
